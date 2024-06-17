@@ -2,7 +2,7 @@ import requests
 import json
 
 # Use api key. Reset key at: https://www.weatherapi.com/my/ 
-KEY = 'e9090045c20d41738c9114251241106'
+KEY = 'KEY'
 
 # API Url to call from. Maximum 5 million calls for the first month, and then 1 million class after that.
 
