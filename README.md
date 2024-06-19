@@ -1,6 +1,3 @@
-# Welcome to Weatherly!
-A simple GUI weather app made in python
-
 ![Weatherly thumb](https://github.com/Yaveen123/Weatherly/assets/94953863/3d7b106c-61c0-4259-88fb-f2d21816cc91)
 
 # Installation
