@@ -1,0 +1,2 @@
+Insert api key here, as only numbers and letters (no "").
+Head to weatherapi.com to get a key.
